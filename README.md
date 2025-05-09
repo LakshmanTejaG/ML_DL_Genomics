@@ -2,7 +2,7 @@
 
 Top machine learning algorithms:
 
-🔢 <b>Supervised Learning Algorithms</b>
+🔢 <b>Supervised Learning Algorithms</b><br>
 <b>Linear Regression:</b>Predicts a continuous target variable assuming a linear relationship between inputs and output.
 
 <b>Logistic Regression:</b> Used for binary classification; estimates the probability of a class using a logistic (sigmoid) function.
