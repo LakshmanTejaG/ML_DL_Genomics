@@ -2,7 +2,7 @@
 
 Top machine learning algorithms:
 
-🔢 Supervised Learning Algorithms
+🔢 <b>Supervised Learning Algorithms</b>
 Linear Regression
 Predicts a continuous target variable assuming a linear relationship between inputs and output.
 
