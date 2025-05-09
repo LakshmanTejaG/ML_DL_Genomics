@@ -26,5 +26,6 @@ Top machine learning algorithms:
 
 🧠 <b>Neural Networks:</b><br><br>
 <b>Artificial Neural Networks (ANN):</b> Brain-inspired networks for general prediction tasks.
+
 <b>Convolutional Neural Networks (CNN):</b> Specialized neural networks for processing grid-like data, especially images.
 
